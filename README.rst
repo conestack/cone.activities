@@ -1,10 +1,12 @@
 cone activities
 ===============
 
+**THIS PACKAGE IS ARCHIVED**
+
 Installation
 ------------
 
-> git clone git@github.com:bluedynamics/cone.activities.git
+> git clone git@github.com:conestack/cone.activities.git
 
 this build needs (on debian based systems):
 sudo apt-get install libpcre3-dev
